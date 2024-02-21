@@ -1,0 +1,39 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        }
+    },
+    "last.exportedFilePath": "C:/Users/ACER/Documents/sunnlyLand",
+    "last.imagePath": "C:/Users/ACER/Documents/sunnlyLand/kenney_pixel-platformer/Tilemap",
+    "map.height": 18,
+    "map.lastUsedExportFilter": "Godot 4 Scene files (*.tscn)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 18,
+    "openFiles": [
+        "tiles.tsx"
+    ],
+    "project": "tiles.tiled-project",
+    "recentFiles": [
+        "tiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
