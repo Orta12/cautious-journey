@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="18" height="18" tilewidth="18" tileheight="18" infinite="1" nextlayerid="4" nextobjectid="1">
  <editorsettings>
-  <export target="map..tscn" format="tscn"/>
+  <export format="tscn"/>
  </editorsettings>
  <tileset firstgid="1" source="tiles.tsx"/>
  <layer id="3" name="fence" width="18" height="18">

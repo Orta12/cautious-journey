@@ -13,7 +13,7 @@ dest_files=[ "res://.import/tiles.tsx-d5ae71de45e9c1474f44dc79e9477abe.res" ]
 
 custom_properties=true
 tile_metadata=false
-image_flags=7
+image_flags=3
 embed_internal_images=false
 save_tiled_properties=false
 post_import_script=""

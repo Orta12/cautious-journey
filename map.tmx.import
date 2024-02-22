@@ -12,11 +12,11 @@ dest_files=[ "res://.import/map.tmx-3dab548ccd86eaedbbd363df8233f161.scn" ]
 [params]
 
 custom_properties=true
-tile_metadata=false
+tile_metadata=true
 uv_clip=true
-image_flags=3
+image_flags=59
 collision_layer=1
-embed_internal_images=false
-save_tiled_properties=false
+embed_internal_images=true
+save_tiled_properties=true
 add_background=true
 post_import_script=""

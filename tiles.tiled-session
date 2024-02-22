@@ -3,15 +3,32 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map1.tmx",
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
+        "map.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 53,
+                "y": 503
+            }
+        },
+        "map1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1717.3333333333333,
+                "y": 574.6666666666666
+            }
+        },
         "tiles.tsx": {
-            "dynamicWrapping": true,
-            "scaleInDock": 3,
-            "scaleInEditor": 3
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
         }
     },
     "last.exportedFilePath": "C:/Users/ACER/Documents/sunnlyLand",
@@ -23,11 +40,14 @@
     "map.tileWidth": 18,
     "map.width": 18,
     "openFiles": [
-        "tiles.tsx"
+        "tiles.tsx",
+        "map1.tmx"
     ],
     "project": "tiles.tiled-project",
     "recentFiles": [
-        "tiles.tsx"
+        "tiles.tsx",
+        "map1.tmx",
+        "map.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.margin": 0,

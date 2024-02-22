@@ -1,36 +1,18 @@
+# Bottled up Tilemap
 
-# Cautious-Journey
-
-
-A Game Made By Me In Godot,
+The most advanced tilemap plugin for Godot. Features include everything you can think of and everything from every other plugins.
 
 
-## Installation
+# Documentation
 
+Full documentation for Bottled up Tilemap is available here : [BottledPlugins Documentation](https://docs.google.com/document/d/1y2aPsn72dOxQ-wBNGqLlQvrw9-SV_z12a1MradBglF4/edit)
 
-Currently I Am Working On This Project And Not Much To Show You All, But You Can Run It If You Have Godot Installed On Your Computer Just Download It And Open It On Godot.
+# Credits
 
-
-```Install Godot```
- 
-Link Of Project
-
-
-
-
-
-
-## Contributing
-
-
-Pull Requests Are Welcome. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change.
-            
-
-
-Please Make Sure To Update Tests As Appropriate
-
-
-## License
-
-
-[MIT](Https://Choosealicense.Com/Licenses/Mit/)
+This plugin includes features and code from other plugins. My goal is to have all possible tilemap features in only 1 plugin.
+Including : 
+- Used the interface of [Tile Palette](https://github.com/nklbdev/godot-tile-palette) by Nklbdev as the base for my own
+- Merged it with the interface of [TileCell Manager](https://github.com/TheCowOhBoy/TileCellManager-for-Godot) by TheCowOhBoy
+- Added the features of [Tile Spawner](https://github.com/qtip/tile-spawner) by QTip
+- Took some code from [TileMapBrush](https://github.com/VitMush/godot-addon-TileMapBrush) by VitMush
+- Used a [math function](https://godotengine.org/qa/64496/how-to-get-a-random-tile-in-a-radious) by Zylann to get coordinates in a certain radius

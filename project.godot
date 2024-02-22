@@ -18,6 +18,10 @@ config/icon="res://icon.png"
 
 enabled=PoolStringArray( "res://addons/vnen.tiled_importer/plugin.cfg" )
 
+[global]
+
+layers=false
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
@@ -39,6 +43,26 @@ jump={
 "events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":87,"physical_scancode":0,"unicode":0,"echo":false,"script":null)
  ]
 }
+shoot1={
+"deadzone": 0.5,
+"events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":16777232,"physical_scancode":0,"unicode":0,"echo":false,"script":null)
+ ]
+}
+shoot2={
+"deadzone": 0.5,
+"events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":16777234,"physical_scancode":0,"unicode":0,"echo":false,"script":null)
+ ]
+}
+
+[layer_names]
+
+2d_physics/layer_1="player"
+2d_physics/layer_2="platfrom"
+2d_physics/layer_3="ground"
+2d_physics/layer_4="enemy"
+2d_physics/layer_5="fireball"
+2d_physics/layer_6="itms"
+2d_physics/layer_7="bumpers"
 
 [physics]
 
